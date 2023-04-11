@@ -1,0 +1,32 @@
+#result {
+    width: 400px;
+    height: 150px;
+    margin: 50px auto 0;
+    border: 5px solid lightgreen;
+    text-align: center;
+    line-height: 150px;
+    font-size: 72px;
+    font-weight: bold;
+    color: orange;
+}
+
+#button {
+    width: 230px;
+    height: 70px;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto 0;
+    border: none;
+    outline: none;
+    background-color: #e83e20;
+    line-height: 70px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #fff;
+    box-shadow: 0 10px #992915;
+}
+
+#button:active {
+    margin-top: 35px;
+    box-shadow: 0 5px #992915;
+}
